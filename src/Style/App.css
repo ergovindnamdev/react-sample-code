@@ -1,0 +1,34 @@
+.row{
+    margin-left: 0px;
+    margin-right: 0px;
+}
+
+.SideNavHeight{
+height: 90vh;
+}
+.nav-link{
+    color: gray;
+    font-size: 13pt;
+    font-weight: 500;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+label{
+    color: gray;
+    margin-bottom: 10px;
+}
+.btn-custom-submit{
+    background-color: #a9d8b0;
+    color: white;
+    font-weight: 600;
+}
+.btn-custom-submit:hover{
+    background-color: #9bc8a1;
+    color: white;
+}
+input , select{
+    font-size: 10pt !important;
+}
+.scale:hover{
+    transform: scale(1.3);
+}
